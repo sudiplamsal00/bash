@@ -1,0 +1,2 @@
+this has been modiffied -i
+this is modied before commit-2
