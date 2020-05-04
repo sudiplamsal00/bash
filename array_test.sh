@@ -23,3 +23,4 @@ do
 		echo "Host $i is down"
 	fi
 done
+echo "this is test for git commit"
